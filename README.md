@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mit-gitprofile&label=Profile%20views&color=0e75b6&style=flat" alt="mit-gitprofile" /> </p>
 
-- 🌱 I’m currently learning AIML & Data science **projects**
+- 🌱 I’m currently learning AIML & Data science.
 
 - 💬 Ask me about **Algorithms ,ML, DL, NLP etc.**
 
